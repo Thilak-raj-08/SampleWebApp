@@ -5,6 +5,6 @@
         <title>Sample Web App</title>
     </head>
     <body>
-        <h1>Hello from Sample Web App!</h1>
+       <h1>Welcome to the New Feature!</h1>
     </body>
 </html>
